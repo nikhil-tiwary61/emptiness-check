@@ -1,0 +1,29 @@
+{
+  "name": "emptiness-check",
+  "version": "1.0.0",
+  "description": "To check if the input is null, undefined, empty string, empty array, or an empty object",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhil-tiwary61/emptiness-check.git"
+  },
+  "keywords": [
+    "null",
+    "undefined",
+    "empty",
+    "object",
+    "array"
+  ],
+  "author": "Nikhil Tiwary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhil-tiwary61/emptiness-check/issues"
+  },
+  "homepage": "https://github.com/nikhil-tiwary61/emptiness-check#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
